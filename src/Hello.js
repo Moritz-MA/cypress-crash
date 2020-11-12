@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 
-function Hello() {​​​​
+function Hello() {
     return (
         <div>
             <h1>Hello, world!</h1>
@@ -9,6 +9,6 @@ function Hello() {​​​​
             </Link>
         </div>
     )
-}​​​​
+}
 
 export {​​​​ Hello }​​​​
