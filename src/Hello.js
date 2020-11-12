@@ -11,4 +11,4 @@ function Hello() {
     )
 }
 
-export {​​​​ Hello }​​​​
+export { Hello }
