@@ -18,13 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <Link
-          className="App-link"
-          to="/hello"
-          data-cy="hello-link"
-        >
-          Go to Hello
-        </Link>
+      
       </header>
     </div>
   );
